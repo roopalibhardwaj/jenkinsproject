@@ -1,2 +1,7 @@
 jammu
 city of temples
+<<<<<<< HEAD
+=======
+UT in 2019
+jammu and kashmir
+>>>>>>> uat
